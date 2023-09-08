@@ -1,4 +1,4 @@
-('C:\\Users\\kemal\\Desktop\\code\\youtube_to_mp3\\build\\converter\\PYZ-00.pyz',
+('C:\\Users\\kemal\\Desktop\\code\\c0nv3rt3r\\build\\converter\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\kemal\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),

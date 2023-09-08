@@ -40,7 +40,7 @@ def run():
             url = input(colored("Please enter a Youtube URL: ", 'yellow')).strip()
 
             video    = YouTube(url)
-            filename = f"{video.title}.mp3"
+            filename = f"{video.author} - {video.title}.mp3"
             
             print_video_info(video, filename)
 
